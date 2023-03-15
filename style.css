@@ -1,0 +1,89 @@
+* {
+    transition: all .5s linear;
+    box-sizing: border-box;
+  }
+  
+
+  h1 {
+    font-family: georgia;
+    font-size: 60px;
+    text-align: center;
+    margin: 50px;
+    font-style: italic ;
+    color:rgba(224, 18, 18, 0.878);
+  }
+  
+  .fishcontainer {
+    margin-top: 100px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  .fishcontainer div {
+    width: 370px;
+    height: 370px;
+    margin: 10px;
+    background: rgba(5, 67, 143, 0.981);
+    cursor: cell;
+    display: inline-block;
+  }
+  
+  :nth-child(1):focus {
+    outline: none;
+    background-image: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+
+}
+  
+  :nth-child(2):focus {
+    outline: none;
+    background: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+}
+  
+  :nth-child(3):focus {
+    outline: none;
+    background: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+}
+  
+  :nth-child(4):focus {
+    outline: none;
+    background: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+}
+  
+  :nth-child(5):focus {
+    outline: none;
+    background: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+}
+  
+  :nth-child(6):focus {
+    outline: none;
+    background: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+}
+  
+  :nth-child(7):focus {
+    outline: none;
+    background: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+}
+  
+  :nth-child(8):focus {
+    outline: none;
+    background: url(https://pbs.twimg.com/media/EAaHRwwX4AUuc7c.jpg:large);
+    background-size: cover;
+}
+  
+  :nth-child(9):focus {
+    outline: none;
+    background: url(https://a.thumbs.redditmedia.com/4dtsZ5CTlKW7fp5qplUli0ET_3Kbu8gbsbsCsGRman0.png);
+    background-size: contain;
+}
+  
+.fish2{
+margin-top: ;
+}
+  
